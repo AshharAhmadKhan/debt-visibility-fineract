@@ -24,6 +24,12 @@ Applied to mailing list threads and JIRA comments across all three cases.
    Any claim or investigation about whether downstream consumers
    reference the item under discussion.
 
+**Note:** "Dependency surface evidence" appears in earlier paper versions as a
+thematic-coding category. In the current integrated paper, dependency-surface
+analysis is described separately as a structured architectural/dependency
+analysis. The category is retained here to preserve the coding schema used
+during the broader evidence analysis.
+
 ## Application notes
 
 Each mailing list post and JIRA comment was coded independently.
